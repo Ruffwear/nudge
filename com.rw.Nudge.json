@@ -1,4 +1,4 @@
-{
+{  "optionalFeatures": {
     "aggressiveUserExperience": true,
     "asynchronousSoftwareUpdate": true,
     "attemptToFetchMajorUpgrade": true,
@@ -32,3 +32,4 @@
     "nudgeRefreshCycle": 60,
     "randomDelay": false
   }
+}
