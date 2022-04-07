@@ -1,0 +1,38 @@
+{
+    "aggressiveUserExperience": true,
+    "asynchronousSoftwareUpdate": true,
+    "attemptToFetchMajorUpgrade": true,
+    "enforceMinorUpdates": true
+  },
+  "osVersionRequirements": [
+    {
+      "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT212585#macos121",
+      ],
+      "majorUpgradeAppPath": "/Applications/Install macOS Monterey.app",
+      "requiredInstallationDate": "2022-05-01T00:00:00Z",
+      "requiredMinimumOSVersion": "12.4",
+      "targetedOSVersionsRule": "default"
+    }
+  ],
+  "userExperience": {
+    "allowGracePeriods": false,
+    "allowUserQuitDeferrals": true,
+    "allowedDeferrals": 10,
+    "allowedDeferralsUntilForcedSecondaryQuitButton": 8,
+    "approachingRefreshCycle": 6000,
+    "approachingWindowTime": 72,
+    "elapsedRefreshCycle": 60,
+    "gracePeriodInstallDelay": 72,
+    "gracePeriodLaunchDelay": 1,
+    "gracePeriodPath": "/private/var/db/.AppleSetupDone",
+    "imminentRefreshCycle": 300,
+    "imminentWindowTime": 24,
+    "initialRefreshCycle": 18000,
+    "maxRandomDelayInSeconds": 1200,
+    "noTimers": false,
+    "nudgeRefreshCycle": 60,
+    "randomDelay": false
+  },
+    ]
+  }
+}
