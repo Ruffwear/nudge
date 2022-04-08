@@ -33,6 +33,7 @@
     "randomDelay": false,
     "updateElements": [
     {
+      "_language": "",
       "actionButtonText": "Update Device",
       "customDeferralButtonText": "Custom",
       "informationButtonText": "More Info",
