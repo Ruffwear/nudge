@@ -33,6 +33,7 @@
     "randomDelay": false
   },
   "updateElements": [
+    {
       "actionButtonText": "Update Device",
       "customDeferralButtonText": "Custom",
       "informationButtonText": "More Info",
@@ -46,6 +47,6 @@
       "primaryQuitButtonText": "Later",
       "secondaryQuitButtonText": "I understand",
       "subHeader": "Stay Awesome! ❤️ IT"
+      }
     ],
   }
-}
