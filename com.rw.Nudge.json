@@ -28,7 +28,7 @@
     "maxRandomDelayInSeconds": 1200,
     "noTimers": false,
     "nudgeRefreshCycle": 1800,
-    "randomDelay": false,
+    "randomDelay": false
   },
   "userInterface": {
     "iconDarkPath": "/Library/Application Support/JAMF/RW_Logo.png",
