@@ -13,9 +13,9 @@
       "targetedOSVersionsRule": "12"
     },
     {
-      "aboutUpdateURL": "https://support.apple.com/en-us/HT212585#macos1251",
-      "requiredInstallationDate": "2022-10-13T00:00:00Z",
-      "requiredMinimumOSVersion": "12.5.1",
+      "aboutUpdateURL": "https://support.apple.com/en-us/HT212585#macos122",
+      "requiredInstallationDate": "2022-06-01T00:00:00Z",
+      "requiredMinimumOSVersion": "12.2",
       "targetedOSVersionsRule": "11"
     }
   ],
