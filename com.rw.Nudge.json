@@ -39,8 +39,8 @@
     "randomDelay": true
   },
   "userInterface": {
-    "iconDarkPath": "/Library/Application Support/JAMF/RW_Logo.png",
-    "iconLightPath": "/Library/Application Support/JAMF/RW_Logo.png",
+    "iconDarkPath": "/Library/Application Support/Ruffwear/RW_Logo.png",
+    "iconLightPath": "/Library/Application Support/Ruffwear/RW_Logo.png",
     "updateElements": [
     {
       "_language": "en",
