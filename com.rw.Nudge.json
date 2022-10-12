@@ -7,15 +7,15 @@
   },
   "osVersionRequirements": [
     {
-      "aboutUpdateURL": "https://support.apple.com/en-us/HT212585#macos1251",
+      "aboutUpdateURL": "https://support.apple.com/en-us/HT212585#macos126",
       "requiredInstallationDate": "2022-10-26T00:00:00Z",
-      "requiredMinimumOSVersion": "12.5.1",
+      "requiredMinimumOSVersion": "12.6",
       "targetedOSVersionsRule": "12"
     },
     {
-      "aboutUpdateURL": "https://support.apple.com/en-us/HT212585#macos1251",
+      "aboutUpdateURL": "https://support.apple.com/en-us/HT212585#macos126",
       "requiredInstallationDate": "2022-10-26T00:00:00Z",
-      "requiredMinimumOSVersion": "12.5.1",
+      "requiredMinimumOSVersion": "12.6",
       "targetedOSVersionsRule": "11"
     }
   ],
