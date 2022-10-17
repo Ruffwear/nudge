@@ -8,13 +8,13 @@
   "osVersionRequirements": [
     {
       "aboutUpdateURL": "https://support.apple.com/en-us/HT212585#macos126",
-      "requiredInstallationDate": "2022-10-26T00:00:00Z",
+      "requiredInstallationDate": "2022-10-31T00:00:00Z",
       "requiredMinimumOSVersion": "12.6",
       "targetedOSVersionsRule": "12"
     },
     {
       "aboutUpdateURL": "https://support.apple.com/en-us/HT212585#macos126",
-      "requiredInstallationDate": "2022-10-26T00:00:00Z",
+      "requiredInstallationDate": "2022-10-31T00:00:00Z",
       "requiredMinimumOSVersion": "12.6",
       "targetedOSVersionsRule": "11"
     }
@@ -22,7 +22,7 @@
   "userExperience": {
     "allowGracePeriods": false,
     "allowUserQuitDeferrals": true,
-    "allowedDeferrals": 10,
+    "allowedDeferrals": 15,
     "allowedDeferralsUntilForcedSecondaryQuitButton": 7,
     "approachingRefreshCycle": 6000,
     "approachingWindowTime": 72,
