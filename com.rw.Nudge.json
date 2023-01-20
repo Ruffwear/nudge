@@ -8,13 +8,13 @@
   "osVersionRequirements": [
     {
       "aboutUpdateURL": "https://support.apple.com/en-us/HT213268#macos130",
-      "requiredInstallationDate": "2023-1-15T00:00:00Z",
+      "requiredInstallationDate": "2023-2-15T00:00:00Z",
       "requiredMinimumOSVersion": "13",
       "targetedOSVersionsRule": "13"
     },
     {
       "aboutUpdateURL": "https://support.apple.com/en-us/HT213268#macos130",
-      "requiredInstallationDate": "2023-1-15T00:00:00Z",
+      "requiredInstallationDate": "2023-2-15T00:00:00Z",
       "requiredMinimumOSVersion": "13",
       "targetedOSVersionsRule": "12"
     }
@@ -22,7 +22,7 @@
   "userExperience": {
     "allowGracePeriods": false,
     "allowUserQuitDeferrals": true,
-    "allowedDeferrals": 25,
+    "allowedDeferrals": 10,
     "allowedDeferralsUntilForcedSecondaryQuitButton": 7,
     "approachingRefreshCycle": 6000,
     "approachingWindowTime": 72,
