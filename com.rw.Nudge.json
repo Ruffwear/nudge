@@ -7,15 +7,15 @@
   },
   "osVersionRequirements": [
     {
-      "aboutUpdateURL": "https://support.apple.com/en-us/HT213268#macos130",
-      "requiredInstallationDate": "2023-2-15T00:00:00Z",
-      "requiredMinimumOSVersion": "13",
+      "aboutUpdateURL": "https://support.apple.com/en-us/HT213268#macos132",
+      "requiredInstallationDate": "2023-3-1T00:00:00Z",
+      "requiredMinimumOSVersion": "13.2",
       "targetedOSVersionsRule": "13"
     },
     {
-      "aboutUpdateURL": "https://support.apple.com/en-us/HT213268#macos130",
-      "requiredInstallationDate": "2023-2-15T00:00:00Z",
-      "requiredMinimumOSVersion": "13",
+      "aboutUpdateURL": "https://support.apple.com/en-us/HT213268#macos132",
+      "requiredInstallationDate": "2023-3-1T00:00:00Z",
+      "requiredMinimumOSVersion": "13.2",
       "targetedOSVersionsRule": "12"
     }
   ],

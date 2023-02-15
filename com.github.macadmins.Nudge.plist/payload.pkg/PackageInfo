@@ -1,0 +1,8 @@
+
+<pkg-info format-version="2" identifier="com.github.macadmins.nudge.plist" version="1" install-location="/" auth="root">
+  <payload installKBytes="0" numberOfFiles="5"/>
+  <scripts>
+    <preinstall file="./preinstall"/>
+    <postinstall file="./postinstall"/>
+  </scripts>
+</pkg-info>
