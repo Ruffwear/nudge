@@ -7,13 +7,13 @@
   },
   "osVersionRequirements": [
     {
-      "aboutUpdateURL": "https://support.apple.com/en-us/HT213268#macos132",
+      "aboutUpdateURL": "https://support.apple.com/en-us/HT213268#macos131",
       "requiredInstallationDate": "2023-3-1T00:00:00Z",
       "requiredMinimumOSVersion": "13.1",
       "targetedOSVersionsRule": "13"
     },
     {
-      "aboutUpdateURL": "https://support.apple.com/en-us/HT213268#macos132",
+      "aboutUpdateURL": "https://support.apple.com/en-us/HT213268#macos131",
       "requiredInstallationDate": "2023-3-1T00:00:00Z",
       "requiredMinimumOSVersion": "13.1",
       "targetedOSVersionsRule": "12"
@@ -27,7 +27,7 @@
     "approachingRefreshCycle": 6000,
     "approachingWindowTime": 72,
     "elapsedRefreshCycle": 300,
-    "gracePeriodInstallDelay": 72,
+    "gracePeriodInstallDelay": 1,
     "gracePeriodLaunchDelay": 1,
     "gracePeriodPath": "/private/var/db/.AppleSetupDone",
     "imminentRefreshCycle": 600,
