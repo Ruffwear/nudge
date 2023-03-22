@@ -8,13 +8,13 @@
   "osVersionRequirements": [
     {
       "aboutUpdateURL": "https://support.apple.com/en-us/HT213268#macos1321",
-      "requiredInstallationDate": "2023-3-17T00:00:00Z",
+      "requiredInstallationDate": "2023-3-31T00:00:00Z",
       "requiredMinimumOSVersion": "13.2.1",
       "targetedOSVersionsRule": "13"
     },
     {
       "aboutUpdateURL": "https://support.apple.com/en-us/HT213268#macos1321",
-      "requiredInstallationDate": "2023-3-17T00:00:00Z",
+      "requiredInstallationDate": "2023-3-31T00:00:00Z",
       "requiredMinimumOSVersion": "13.2.1",
       "targetedOSVersionsRule": "12"
     }
