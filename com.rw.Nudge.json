@@ -8,13 +8,13 @@
   "osVersionRequirements": [
     {
       "aboutUpdateURL": "https://support.apple.com/en-us/HT213268#macos135",
-      "requiredInstallationDate": "2023-8-15T00:00:00Z",
+      "requiredInstallationDate": "2024-3-15T00:00:00Z",
       "requiredMinimumOSVersion": "13.5",
       "targetedOSVersionsRule": "13"
     },
     {
       "aboutUpdateURL": "https://support.apple.com/en-us/HT213268#macos135",
-      "requiredInstallationDate": "2023-8-15T00:00:00Z",
+      "requiredInstallationDate": "2024-3-15T00:00:00Z",
       "requiredMinimumOSVersion": "13.5",
       "targetedOSVersionsRule": "12"
     }
